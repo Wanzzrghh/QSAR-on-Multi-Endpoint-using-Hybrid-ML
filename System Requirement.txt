@@ -1,0 +1,19 @@
+Used library and version
+
+1.	numpy	1.26.4	
+2.	pandas	1.5.3	
+3.	scikit-learn	1.4.2	
+4.	lightgbm	4.6.0	
+5.	xgboost	2.1.1	
+6.	catboost	1.2.8	
+7.	torch	2.5.1+cu121	
+8.	torchvision	0.20.1+cu121	
+9.	torchaudio	2.5.1+cu121	
+10.	tensorflow	2.16.2	
+11.	keras 3.12.0	High-level API 
+12.	pytorch-lightning	2.5.6	
+13.	imbalanced-learn	0.14.0	
+14.	deepchem	2.8.0	
+15.	chemprop	2.2.1	
+16.	rdkit	2025.9.1	
+17.	Cheminformaticsstandardiser	0.1.9	
